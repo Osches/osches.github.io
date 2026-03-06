@@ -8,9 +8,9 @@ title: Apps
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="index">
+<div id="apps">
 
-<h1>Home</h1>
+<h1>Apps</h1>
 
   <p><strong>some text</strong></p>
 
