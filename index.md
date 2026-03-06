@@ -4,8 +4,10 @@ title: Home
 
 Text 0
 
-[Go to Contact](/about.html)
+[Contact](/about.html)
 
-[Go to Contact](/contact.html)
+[Contact](/contact.html)
 
-[Go to Privacy Policy](/privacy-policy.html)
+[Privacy Policy](/privacy-policy.html)
+
+[Credits](/credits.html)
