@@ -146,7 +146,6 @@ title: Privacy Policy
   <p>If you have questions about this Privacy Policy or our practices, please contact us at:</p>
   <p>
     <strong>Osches</strong><br>
-    Osches<br>
     Email: <a href="mailto:info@osches.com">info@osches.com</a><br>
   </p>
   <p>For California residents: You may contact us to request information about sharing with third parties for direct marketing (though we do not do this).</p>
