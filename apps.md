@@ -8,8 +8,6 @@ title: Apps
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="apps">
-
 <h1>Apps</h1>
 
   <p><strong>some text</strong></p>
@@ -28,5 +26,3 @@ title: Apps
 
   <h3>1.1 First Subtitle</h3>
   <p>bla bla bla:</p>
-  
-</div>
