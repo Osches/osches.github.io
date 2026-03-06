@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/
 ---
 
 <div class="post-content">
