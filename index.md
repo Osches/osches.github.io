@@ -2,16 +2,11 @@
 title: Home
 ---
 
-[Home](/index.html)
-
-[Apps](/apps.html)
-
-[About](/about.html)
-
-[Contact](/contact.html)
-
+[Home - ](/index.html)
+[Apps - ](/apps.html)
+[About - ](/about.html)
+[Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
-
 
 <div id="index">
 
@@ -35,4 +30,3 @@ title: Home
   <p>bla bla bla:</p>
   
 </div>
-
