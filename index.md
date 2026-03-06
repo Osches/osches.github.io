@@ -8,8 +8,6 @@ title: Home
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="index">
-
 <h1>Home</h1>
 
   <p><strong>some text</strong></p>
@@ -28,5 +26,3 @@ title: Home
 
   <h3>1.1 First Subtitle</h3>
   <p>bla bla bla:</p>
-  
-</div>
