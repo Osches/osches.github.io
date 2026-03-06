@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy
 ---
-
 [Home - ](/index.html)
 [Apps - ](/apps.html)
 [About - ](/about.html)
