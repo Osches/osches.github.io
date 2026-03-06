@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Credits
-permalink: /credits/
 ---
 
 Project maintained by {{ site.github.owner_name }}  
