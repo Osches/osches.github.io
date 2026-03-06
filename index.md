@@ -2,9 +2,9 @@
 title: Home
 ---
 
-Text 0
+Some text here
 
-[Contact](/about.html)
+[About](/about.html)
 
 [Contact](/contact.html)
 
