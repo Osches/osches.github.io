@@ -4,13 +4,14 @@ title: Home
 [Home - ](/index.html)
 [Apps - ](/apps.html)
 [About - ](/about.html)
+[Contact - ](/contact.html)
 [Privacy Policy](/privacy.html)
 
 <h1>Home</h1>
-<h2>Header Level 2</h2>
-<h3>Header Level 3</h3>
 
-<h3>1.1 Personal Information You Provide to Us</h3>
+  <p><strong>some text</strong></p>
+
+  <h3>1.1 Personal Information You Provide to Us</h3>
   <p>We may collect the following Personal Information that you voluntarily provide:</p>
   <ul>
     <li><strong>Contact Information:</strong> Name, email address, postal address, phone number, or other similar identifiers when you register for an account, subscribe to newsletters, contact us via forms, or request support.</li>
