@@ -1,7 +1,12 @@
 ---
-layout: default
 title: Privacy Policy
 ---
+
+[Home](/index.html)
+[Apps](/apps.html)
+[About](/about.html)
+[Contact](/contact.html)
+[Privacy Policy](/privacy-policy.html)
 
 <div id="privacy-policy">
 
