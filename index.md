@@ -1,7 +1,6 @@
 ---
 title: Home
 ---
-
 [Home - ](/index.html)
 [Apps - ](/apps.html)
 [About - ](/about.html)
