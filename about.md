@@ -8,7 +8,7 @@ title: About
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="index">
+<div id="about">
 
 <h1>Home</h1>
 
