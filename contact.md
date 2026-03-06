@@ -8,7 +8,7 @@ title: Contact
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="index">
+<div id="contact">
 
 <h1>Home</h1>
 
