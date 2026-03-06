@@ -9,5 +9,3 @@ Some text here
 [Contact](/contact.html)
 
 [Privacy Policy](/privacy-policy.html)
-
-[Credits](/credits.html)
