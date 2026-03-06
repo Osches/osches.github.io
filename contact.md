@@ -8,9 +8,7 @@ title: Contact
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="contact">
-
-<h1>Home</h1>
+<h1>Contact</h1>
 
   <p><strong>some text</strong></p>
 
@@ -28,5 +26,3 @@ title: Contact
 
   <h3>1.1 First Subtitle</h3>
   <p>bla bla bla:</p>
-  
-</div>
