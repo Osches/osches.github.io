@@ -8,8 +8,6 @@ title: Privacy Policy
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="privacy-policy">
-
 <h1>Privacy Policy</h1>
 
   <p><strong>Effective Date: March 05, 2026</strong></p>
