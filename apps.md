@@ -20,16 +20,3 @@ title: Apps
     <li><strong>User Content:</strong> Any information you submit, such as feedback, reviews, comments, or content uploaded to our Apps (e.g., photos, videos, or text if applicable to the App's functionality).</li>
     <li><strong>Support Requests:</strong> Information provided when seeking technical support or reporting issues.</li>
   </ul>
-
-  <p>bla bla bla</p>
-
-  <p>bla bla bla</p>
-
-  <hr>
-
-  <h2>1. First Title</h2>
-
-  <p>bla bla bla</p>
-
-  <h3>1.1 First Subtitle</h3>
-  <p>bla bla bla:</p>
