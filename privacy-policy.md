@@ -8,8 +8,6 @@ title: Privacy Policy
 [Contact - ](/contact.html)
 [Privacy Policy](/privacy-policy.html)
 
-<div id="privacy-policy">
-
 <h1>Privacy Policy</h1>
 
   <p><strong>Effective Date: March 05, 2026</strong></p>
@@ -154,5 +152,3 @@ title: Privacy Policy
     Email: <a href="mailto:info@osches.com">info@osches.com</a><br>
   </p>
   <p>For California residents: You may contact us to request information about sharing with third parties for direct marketing (though we do not do this).</p>
-
-</div>
