@@ -4,5 +4,6 @@ title: Home
 
 Text 0
 
-[Go to Page 1](/page1.html)  
-[Go to Page 2](/page2.html)
+[Go to About](/about.html)  
+[Go to Contact](/contact.html)
+[Go to Privacy Policy](/privacy-policy.html)
